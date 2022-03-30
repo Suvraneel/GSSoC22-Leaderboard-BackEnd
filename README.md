@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/GSSoC-Web/gssoc-assets/main/Navbar%20logo/GS_logo_White.png)
+![GirlScript SoC2022](https://raw.githubusercontent.com/GSSoC-Web/gssoc-assets/main/Navbar%20logo/GS_logo_White.png)
 # GirlScript Summer of Code 2022 Leaderboard
 ## Official website repo of GSSoC '22
 
